@@ -22,7 +22,7 @@ This repository documents my daily Terraform practice, where I build Azure resou
 | Day    | Topic                             | Status |
 | ------ | --------------------------------- | ------ |
 | Day 01 | Resource Group                    | ✅      |
-| Day 02 | Storage Account                   | ⬜      |
+| Day 02 | Storage Account                   | ✅      |
 | Day 03 | Blob Container                    | ⬜      |
 | Day 04 | Remote State                      | ⬜      |
 | Day 05 | Virtual Network                   | ⬜      |

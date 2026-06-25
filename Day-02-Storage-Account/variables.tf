@@ -1,0 +1,6 @@
+variable "rgst" {
+
+}
+variable "storaged" {
+
+}
