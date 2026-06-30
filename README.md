@@ -83,6 +83,11 @@ terraform-daily-practice/
 * Practiced resource dependencies
 * Used `for_each` with multiple resources
 * Learned resource referencing between Terraform resources
+### ✅ Day 03 - Blob Container
+- Created Azure Blob Containers
+- Connected Blob Containers with Storage Accounts
+- Used `storage_account_id`
+- Practiced resource dependency using `for_each`
 
 ---
 
